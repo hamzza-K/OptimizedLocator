@@ -1,0 +1,52 @@
+{
+"auto": "images/auto.png",
+"enterNumbers": "images/enterNumbers.png",
+"enterARoomNumber": "images/enterARoomNumber.png",
+"createRoom": "images/createRoom.png",
+"ready": "images/ready.png",
+"startQuest": "images/startQuest.png",
+"retry": "images/retry.png",
+"coopQuestMenu": "images/coopQuestMenu.png",
+"tapToContinue": "images/tapToContinue.png",
+"idnum": "images/idnumber.png",
+
+"AUTO_CORDS": [2010, 660],
+"IDNO_CORDS": [2020, 170, 151, 90],
+"CREATE_ROOM_CORDS" : [1576,456],
+"ENTER_ROOM_NUMBER_CORDS" : [2058,1191],
+"READY_CORDS" : [2013,2015],
+"START_QUEST_CORDS" : [2044,671],
+"TAP_TO_CONTINUE_U_CORDS" : [1750,661],
+"TAP_TO_CONTINUE_B_CORDS" : [1750,1250],
+"RETRY_CORDS" : [1413,668],
+"CO_OP_QUEST_CORDS" : [2030,1245],
+
+"NUMBERS_CORDS" : {"1": [[1619,895], "images/one.png"],
+           "2": [[1732,895], "images/two.png"],
+           "3": [[1850,895], "images/three.png"],
+           "4": [[1616,974], "images/four.png"],
+           "5": [[1732,974], "images/five.png"],
+           "6": [[1849,974], "images/six.png"],
+           "7": [[1619,1050], "images/seven.png"],
+           "8": [[1740,1050], "images/eight.png"],
+           "9": [[1840,1050], "images/nine.png"],
+           "0": [[1612,1134], "images/zero.png"]},
+
+
+
+
+
+
+
+
+
+
+
+
+
+"TIME": 0.5, 
+"GAME_TIME": 300,
+"ENTER_NUMBERS_MANUALLY": true,
+"FAILSAFE": false,
+"DEBUG":false
+}
